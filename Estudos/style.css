@@ -1,0 +1,29 @@
+.block div {
+    border: 1px solid red;
+    width: 200px;
+    height: 100px;
+
+
+    padding: 20px;
+    margin: 20px;
+
+    display: inline-block;
+  
+}
+
+.inline div {
+    border: 1px solid red;
+    display: inline;
+    /* Não aceita largura e altura */
+    margin: 20px;
+    padding: 20px 60px;
+
+}
+
+section {
+    margin: 20px;
+}
+
+body{
+    background-color:bisque;
+}
